@@ -1,5 +1,5 @@
 class Customer
-  attr_accessor :name. :age
+  attr_accessor :name, :age
   @@all = Array.new
 
   def initialize(name, age)
